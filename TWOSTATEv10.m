@@ -19,7 +19,7 @@ clear all
 close all
 SIZE=15;
 
-%corresponds to datta of Fig. 3 in Kramer and Valero (2023)
+%corresponds to data of Fig. 3 in Kramer and Valero (2023)
 file = dir('*.mat');  
 nfile = size(file,1);
 
