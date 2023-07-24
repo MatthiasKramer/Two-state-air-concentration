@@ -23,7 +23,7 @@ SIZE=15;
 file = dir('*.mat');  
 nfile = size(file,1);
 
-Cmeanlim=0.2; %only use two-state convolution for Cmean>0.2
+Cmeanlim=0.2; %only use two-state convolution for Cmean> (0.2 to 0.25)
 
 %% Loop over measurements
 for k=1:1:nfile
@@ -59,7 +59,7 @@ for k=1:1:nfile
         %TWL air concentration [Eq. (2.2)]
         [CTWL{k},H(k),y50TWL(k)]=TWL(ytot(indstar(k)-overlap:end),Ctot(indstar(k)-overlap:end),Cmeantot(k),y90tot(k),yplot);                         
         
-        sigmastar(k)=0.1*delta(k); %use sigmastar = (0.1 to 0.2)*delta, compare Table 1      
+        sigmastar(k)=0.15*delta(k); %use sigmastar = (0.1 to 0.2)*delta, compare Table 1      
         Gamma=normcdf(yplot,ystar(k),sigmastar(k)); %compute Gamma [Eq. (2.9)]       
               
         %evaluate air concentration
