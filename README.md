@@ -11,7 +11,7 @@ The two-state convolution contains several free parameters that may have to be a
 
 -L44: **y<sub>*</sub>** is evaluated based on Fig. 4d in [Kramer and Valero](https://doi.org/10.1017/jfm.2023.440) (2023); note that this might not be a unique solution and ystar might have to be adjusted.
 
--L48: the boundary layer thickness **&#916** is computed empirically, as per Fig. 4c in  [Kramer and Valero](https://doi.org/10.1017/jfm.2023.440) (2023). Please estimate delta from velocity measurements, if available.
+-L48: the boundary layer thickness **\u0394** is computed empirically, as per Fig. 4c in  [Kramer and Valero](https://doi.org/10.1017/jfm.2023.440) (2023). Please estimate delta from velocity measurements, if available.
 
 -L55: overlap determines the number of points used for fitting. This will only slightly change results, but may be worthwhile to adjust.
 
