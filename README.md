@@ -9,9 +9,9 @@ To run the code, download the complete folder and execute TWOSTATEv10.mat.
 
 The two-state convolution contains several free parameters that may have to be adjusted for other datasets:
 
--L44: ystar is evaluated based on Fig. 4d in [Kramer and Valero](https://doi.org/10.1017/jfm.2023.440); note that this might not be a unique solution and ystar might have to be adjusted.
+-L44: ystar is evaluated based on Fig. 4d in [Kramer and Valero](https://doi.org/10.1017/jfm.2023.440) (2023); note that this might not be a unique solution and ystar might have to be adjusted.
 
--L48: delta is computed empirically, as per Fig. 4c in [Kramer and Valero](https://doi.org/10.1017/jfm.2023.440 (2023). Please estimate delta from velocity measurements, if available.
+-L48: delta is computed empirically, as per Fig. 4c in  [Kramer and Valero](https://doi.org/10.1017/jfm.2023.440) (2023). Please estimate delta from velocity measurements, if available.
 
 -L55: overlap determines the number of points used for fitting. This will only slightly change results, but may be worthwhile to adjust.
 
@@ -20,7 +20,7 @@ The two-state convolution contains several free parameters that may have to be a
 
 **Dataset on self-aerated flows (Straub and Anderson 1958)**
 
-This dataset was digitized from the research paper by Straub and Anderson published in 1958. The data input was done manually, and all credits for the original data go to Straub and Anderson.
+This dataset was digitized from the research paper by [Straub and Anderson](https://doi.org/10.1061/JYCEAJ.0000261) published in 1958. The data input was done manually, and all credits for the original data go to Straub and Anderson.
 
 For citation purposes, please refer to the original paper:
 
