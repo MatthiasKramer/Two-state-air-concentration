@@ -37,6 +37,8 @@ STRAUB, L. & ANDERSON, A.G. 1958 Experiments on self-aerated flow in open channe
 
 We hold no copyright over the data from [Straub and Anderson](https://doi.org/10.1061/JYCEAJ.0000261) (1958). All copyright and other rights of this data belong to the respective owners, authors, publishers, or other legal holders of the rights. This data is shared under the understanding of 'fair use' for non-commercial research and educational purposes. For other uses, please refer to and respect the original sources' policies and rights.
 
+<br />
+
 **Contact Information**
 
 If you find any errors or discrepancies in this code or data, please feel free to open an issue or contact me directly at m.kramer@adfa.edu.au.
