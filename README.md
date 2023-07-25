@@ -3,7 +3,7 @@ This repository provides data and code for the two-state air concentration convo
 
 
 
-1 Run the code
+Run the code
 ----------
 
 To run the code, download the complete folder and execute TWOSTATEv10.mat. 
