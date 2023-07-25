@@ -1,6 +1,7 @@
 # Two-state-air-concentration
 This repository provides data and code for the two-state air concentration convolution presented in Kramer and Valero (2023, JFM). The convolution principle is exemplified based on seminal data of Straub and Anderson (1958)
 
+**Free parameters**
 To run the code, download the complete folder and execute TWOSTATEv10.mat. The two-state convolution contains several free parameters that may have to be adjusted for other datasets:
 
 L44: ystar is evaluated based on Fig. 4d in Kramer and Valero (2023); note that this might not be a unique solution and ystar might have to be adjusted.
