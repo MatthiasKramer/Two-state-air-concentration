@@ -15,7 +15,7 @@ The two-state convolution contains several free parameters that may have to be a
 
 - L48: the boundary layer thickness **δ** is computed empirically, as per Fig. 4c in  [Kramer and Valero](https://doi.org/10.1017/jfm.2023.440) (2023). Please estimate **δ** from velocity measurements, if available.
 
-- L55: overlap determines the number of points used for fitting. This will only slightly change results, but may be worthwhile to adjust.
+- L55: the overlap determines the number of points used for fitting. This will only slightly change results, but may be worthwhile to adjust.
 
 - L62: the standard deviation of the interface position **σ<sub>*</sub>** is determined as (0.1 to 0.2)***δ**.
 
