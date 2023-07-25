@@ -1,7 +1,7 @@
 # Two-state air concentration
 This repository provides data and code for the two-state air concentration convolution presented in [Kramer and Valero](https://doi.org/10.1017/jfm.2023.440) (2023, JFM). The convolution principle is exemplified based on seminal data of [Straub and Anderson](https://doi.org/10.1061/JYCEAJ.0000261) (1958).
 
-&nbsp
+</p>
 
 **Run the code**
 
