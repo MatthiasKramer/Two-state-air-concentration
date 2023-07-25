@@ -11,13 +11,13 @@ To run the code, download the complete folder and execute TWOSTATEv10.mat.
 
 The two-state convolution contains several free parameters that may have to be adjusted for other datasets:
 
--L44: the mean interface position **y<sub>*</sub>** is evaluated based on Fig. 4d in [Kramer and Valero](https://doi.org/10.1017/jfm.2023.440) (2023); note that this might not be a unique solution and **y<sub>*</sub>** might have to be adjusted.
+- L44: the mean interface position **y<sub>*</sub>** is evaluated based on Fig. 4d in [Kramer and Valero](https://doi.org/10.1017/jfm.2023.440) (2023); note that this might not be a unique solution and **y<sub>*</sub>** might have to be adjusted.
 
--L48: the boundary layer thickness **δ** is computed empirically, as per Fig. 4c in  [Kramer and Valero](https://doi.org/10.1017/jfm.2023.440) (2023). Please estimate **δ** from velocity measurements, if available.
+- L48: the boundary layer thickness **δ** is computed empirically, as per Fig. 4c in  [Kramer and Valero](https://doi.org/10.1017/jfm.2023.440) (2023). Please estimate **δ** from velocity measurements, if available.
 
--L55: overlap determines the number of points used for fitting. This will only slightly change results, but may be worthwhile to adjust.
+- L55: overlap determines the number of points used for fitting. This will only slightly change results, but may be worthwhile to adjust.
 
--L62: the standard deviation of the interface position **σ<sub>*</sub>** is determined as (0.1 to 0.2)***δ**.
+- L62: the standard deviation of the interface position **σ<sub>*</sub>** is determined as (0.1 to 0.2)***δ**.
 
 
 **Dataset on self-aerated flows (Straub and Anderson 1958)**
