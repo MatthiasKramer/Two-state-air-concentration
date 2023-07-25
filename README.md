@@ -3,11 +3,11 @@ This repository provides data and code for the two-state air concentration convo
 
 <br />
 
-</p>
-
 **Run the code**
 
 To run the code, download the complete folder and execute TWOSTATEv10.mat. 
+
+<br />
 
 **Free parameters**
 
@@ -21,6 +21,7 @@ The two-state convolution contains several free parameters that may have to be a
 
 - L62: the standard deviation of the interface position **σ<sub>*</sub>** is determined as (0.1 to 0.2)***δ**.
 
+  <br />
 
 **Dataset on self-aerated flows (Straub and Anderson 1958)**
 
@@ -29,6 +30,8 @@ This dataset was digitized from the research paper by [Straub and Anderson](http
 For citation purposes, please refer to the original paper:
 
 STRAUB, L. & ANDERSON, A.G. 1958 Experiments on self-aerated flow in open channels. J. Hydraul. Div. 84 (7), 1–35.
+
+<br />
 
 **Disclaimer**
 
