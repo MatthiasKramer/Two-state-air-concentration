@@ -45,7 +45,7 @@ for k=1:1:nfile
    
         
         %boundary layer thickness
-        delta(k)=1.75*ystar(k); %if no velocity measuremnents given, assume delta = (1.25 to 1.75)*ystar
+        delta(k)=1.75*ystar(k); %if no velocity measuremnents given, assume delta = (1.1 to 1.75)*ystar
         delta05(k)=delta(k)/2; %find delta/2 for TBL
         inddelta05(k)=find((ytot-delta05(k))<0,1,'last'); %corresponding index for delta/2
         Cdelta05(k)=Ctot(inddelta05(k)); %C(delta/2)
