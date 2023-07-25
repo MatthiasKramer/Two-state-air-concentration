@@ -9,7 +9,7 @@ To run the code, download the complete folder and execute TWOSTATEv10.mat.
 
 The two-state convolution contains several free parameters that may have to be adjusted for other datasets:
 
--L44: ystar is evaluated based on Fig. 4d in [Kramer and Valero](https://doi.org/10.1017/jfm.2023.440) (2023); note that this might not be a unique solution and ystar might have to be adjusted.
+-L44: y_* is evaluated based on Fig. 4d in [Kramer and Valero](https://doi.org/10.1017/jfm.2023.440) (2023); note that this might not be a unique solution and ystar might have to be adjusted.
 
 -L48: delta is computed empirically, as per Fig. 4c in  [Kramer and Valero](https://doi.org/10.1017/jfm.2023.440) (2023). Please estimate delta from velocity measurements, if available.
 
