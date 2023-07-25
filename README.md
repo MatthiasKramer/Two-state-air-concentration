@@ -34,4 +34,4 @@ We hold no copyright over this data. All copyright and other rights of the data 
 
 **Contact Information**
 
-If you find any errors or discrepancies in this data, please feel free to open an issue or contact me directly using m.kramer@adfa.edu.au.
+If you find any errors or discrepancies in this code or data, please feel free to open an issue or contact me directly at m.kramer@adfa.edu.au.
