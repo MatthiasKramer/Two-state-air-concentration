@@ -25,7 +25,7 @@ The two-state convolution contains several free parameters that may have to be a
 
 **Dataset on self-aerated flows (Straub and Anderson 1958)**
 
-This dataset was digitized from the research paper by [Straub and Anderson](https://doi.org/10.1061/JYCEAJ.0000261) published in 1958. The data input was done manually, and all credits for the original data go to Straub and Anderson.
+The corresponding air concentration dataset was digitized from the research paper by [Straub and Anderson](https://doi.org/10.1061/JYCEAJ.0000261) published in 1958. The data input was done manually, and all credits for the original data go to Straub and Anderson.
 
 For citation purposes, please refer to the original paper:
 
