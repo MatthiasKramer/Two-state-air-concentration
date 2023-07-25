@@ -52,7 +52,7 @@ for k=1:1:nfile
         
         
         %two-state convolution              
-        overlap=3; %parameter used to determine number of points for fitting
+        overlap=3; %parameter used to determine number of points away from delta05 and ystar us for fitting
         %TBL air concentration [Eq. (2.1)]
         [CTBL{k},beta(k)]=TBL(ytot(1:inddelta05(k)+overlap),Ctot(1:inddelta05(k)+overlap),Ctot(inddelta05(k)),delta(k),yplot);     
         
